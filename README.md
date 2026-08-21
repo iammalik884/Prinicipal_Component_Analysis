@@ -396,4 +396,4 @@ If you find this project useful, feel free to:
 💡 Suggest improvements
 🤝 Connect for discussions around Machine Learning, AI, and Data Science
 
-**Arshad Abbas | AI Researcher**
+**Usama Manzoor | AI Researcher**
